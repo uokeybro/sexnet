@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-sexnet.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "https://dev-aple.pantheonsite.io/$1"}
   ]
 }
